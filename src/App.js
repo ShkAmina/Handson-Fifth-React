@@ -1,4 +1,3 @@
-import NormalComponent from "./NormalComponent";
 import MyPureComponent from "./MyPureComponent";
 import { useState } from "react";
 import ClickCounter from "./ClickCounter";

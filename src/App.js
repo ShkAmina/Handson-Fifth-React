@@ -13,7 +13,7 @@ function App()
   return(
     <div className="color">
       <h1 className="text">React Handson-5</h1>
-      {/* <NormalComponent count={count}/> */}
+    
       <MyPureComponent count={count}/>
       <div className="flex">
       <button onClick={()=>{
